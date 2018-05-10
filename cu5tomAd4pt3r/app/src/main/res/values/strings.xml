@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MccormickRob_CE05</string>
+    <string-array name="image_list">
+
+        <item>bee</item>
+        <item>buffalo</item>
+        <item>bull</item>
+        <item>butterfly</item>
+        <item>cow</item>
+        <item>dolphin</item>
+        <item>duck</item>
+        <item>firefly</item>
+        <item>fish</item>
+        <item>giraffe</item>
+
+         </string-array>
+
+</resources>
